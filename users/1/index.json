@@ -1,26 +1,28 @@
 {
     "data": {
+        "id": "1",
+        "type": "users",
         "attributes": {
+            "created-at": "2019-02-26T07:35:29.088Z",
             "email": "jason@gmail.com",
             "name": "Jason Bourne",
-            "created-at": "2019-02-26T07:35:29.088Z",
             "updated-at": "2019-02-26T07:35:29.088Z"
         },
-        "id": "1",
         "links": {
             "self": "https://krzkrzkrz.github.io/sandbox-api/users/1"
         },
         "relationships": {
             "post": {
-                "data": {
-                    "id": "1",
-                    "type": "posts"
-                },
+                "data": [
+                    {
+                        "id": "1",
+                        "type": "posts"
+                    }
+                ],
                 "links": {
-                    "related": "https://krzkrzkrz.github.io/sandbox-api/posts/1"
+                    "related": "https://krzkrzkrz.github.io/sandbox-api/posts"
                 }
             }
-        },
-        "type": "users"
+        }
     }
 }
