@@ -1,15 +1,26 @@
 {
     "data": {
+        "id": "1",
+        "type": "posts",
         "attributes": {
             "body": "xyz",
             "created-at": "2019-02-26T07:35:29.088Z",
             "title": "foo bar",
             "updated-at": "2019-02-26T07:35:29.088Z"
         },
-        "id": "1",
         "links": {
             "self": "https://krzkrzkrz.github.io/sandbox-api/posts/1"
         },
-        "type": "posts"
+        "relationships": {
+            "user": {
+                "data": {
+                    "id": "1",
+                    "type": "users"
+                },
+                "links": {
+                    "related": "https://krzkrzkrz.github.io/sandbox-api/users/1"
+                }
+            }
+        }
     }
 }
