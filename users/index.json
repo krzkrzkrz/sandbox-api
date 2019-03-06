@@ -15,10 +15,18 @@
             "relationships": {
                 "posts": {
                     "data": [
-                        {
-                            "id": "1",
-                            "type": "posts"
-                        }
+                    {
+                        "id": "1",
+                        "type": "posts"
+                    },
+                    {
+                        "id": "2",
+                        "type": "posts"
+                    },
+                    {
+                        "id": "3",
+                        "type": "posts"
+                    }
                     ],
                     "links": {
                         "related": "https://krzkrzkrz.github.io/sandbox-api/users/1/posts/"

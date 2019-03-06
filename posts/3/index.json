@@ -1,14 +1,14 @@
 {
     "data": {
         "attributes": {
-            "body": "xyz",
+            "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
             "created-at": "2019-02-26T07:35:29.088Z",
-            "title": "foo bar",
+            "title": "The wind and the tree",
             "updated-at": "2019-02-26T07:35:29.088Z"
         },
-        "id": "1",
+        "id": "3",
         "links": {
-            "self": "https://krzkrzkrz.github.io/sandbox-api/posts/1/"
+            "self": "https://krzkrzkrz.github.io/sandbox-api/posts/3/"
         },
         "relationships": {
             "user": {
@@ -17,7 +17,7 @@
                     "type": "users"
                 },
                 "links": {
-                    "related": "https://krzkrzkrz.github.io/sandbox-api/posts/1/user/"
+                    "related": "https://krzkrzkrz.github.io/sandbox-api/posts/2/user/"
                 }
             }
         },

@@ -17,6 +17,14 @@
                     {
                         "id": "1",
                         "type": "posts"
+                    },
+                    {
+                        "id": "2",
+                        "type": "posts"
+                    },
+                    {
+                        "id": "3",
+                        "type": "posts"
                     }
                 ],
                 "links": {
