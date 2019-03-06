@@ -10,7 +10,7 @@
                 "updated-at": "2019-02-26T07:35:29.088Z"
             },
             "links": {
-                "self": "https://krzkrzkrz.github.io/sandbox-api/users/1"
+                "self": "https://krzkrzkrz.github.io/sandbox-api/users/1/"
             },
             "relationships": {
                 "posts": {
@@ -21,7 +21,7 @@
                         }
                     ],
                     "links": {
-                        "related": "https://krzkrzkrz.github.io/sandbox-api/posts"
+                        "related": "https://krzkrzkrz.github.io/sandbox-api/users/1/posts/"
                     }
                 }
             }

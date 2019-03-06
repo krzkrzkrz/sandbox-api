@@ -9,7 +9,7 @@
             },
             "id": "1",
             "links": {
-                "self": "https://krzkrzkrz.github.io/sandbox-api/posts/1"
+                "self": "https://krzkrzkrz.github.io/sandbox-api/posts/1/"
             },
             "relationships": {
                 "user": {
