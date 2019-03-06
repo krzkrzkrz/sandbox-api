@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "type": "posts",
+            "attributes": {
+                "title": "foo bar",
+                "body": "xyz",
+                "created-at": "2019-02-26T07:35:29.088Z",
+                "updated-at": "2019-02-26T07:35:29.088Z"
+            },
+            "links": {
+                "self": "https://raw.githubusercontent.com/krzkrzkrz/sandbox-api/master/posts/1"
+            },
+            "relationships": {
+                "user": {
+                    "data": {
+                        "id": 1,
+                        "type": "users"
+                    },
+                    "links": {
+                        "related": "https://raw.githubusercontent.com/krzkrzkrz/sandbox-api/master/users/1"
+                    }
+                }
+            }
+        }
+    ]
+}
