@@ -24,18 +24,5 @@
             },
             "type": "posts"
         }
-    ],
-    "included": [
-        {
-            "attributes": {
-                "email": "jason@gmail.com",
-                "name": "Jason Bourne"
-            },
-            "id": "1",
-            "links": {
-                "self": "https://krzkrzkrz.github.io/sandbox-api/users/1"
-            },
-            "type": "users"
-        }
     ]
 }
