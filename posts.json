@@ -1,13 +1,13 @@
 {
   "links": {
-    "self": "https://raw.githubusercontent.com/krzkrzkrz/sandbox-api/master/posts",
+    "self": "https://raw.githubusercontent.com/krzkrzkrz/sandbox-api/master/posts"
   },
   "data": [{
     "type": "posts",
     "id": "1",
     "attributes": {
       "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-      "title": "at nam consequatur ea labore ea harum",
+      "title": "at nam consequatur ea labore ea harum"
     },
     "relationships": {
       "user": {
@@ -26,7 +26,7 @@
     "id": "1",
     "attributes": {
       "name": "Dan",
-      "email": "dan@gmail.com",
+      "email": "dan@gmail.com"
     },
     "links": {
       "self": "https://raw.githubusercontent.com/krzkrzkrz/sandbox-api/master/users/1"
