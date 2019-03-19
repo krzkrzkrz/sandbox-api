@@ -5,6 +5,7 @@
                 "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
                 "created-at": "2019-02-26T07:35:29.088Z",
                 "title": "The cat in the hat",
+                "active": "true",
                 "updated-at": "2019-02-26T07:35:29.088Z"
             },
             "id": "1",
@@ -29,6 +30,7 @@
                 "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                 "created-at": "2019-02-26T07:35:29.088Z",
                 "title": "The dog who ate his own bone",
+                "active": "true",
                 "updated-at": "2019-02-26T07:35:29.088Z"
             },
             "id": "2",
@@ -53,6 +55,7 @@
                 "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
                 "created-at": "2019-02-26T07:35:29.088Z",
                 "title": "The wind and the tree",
+                "active": "false",
                 "updated-at": "2019-02-26T07:35:29.088Z"
             },
             "id": "3",
